@@ -12,5 +12,5 @@
 <a href="mailto:raissakestring23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 
 
-## 💻 Technologies
+## 🎯 Technologies
 [![My Skills](https://skillicons.dev/icons?i=java,js,c,php,postgresql,html,css,git,illustrator,figma,autocad)](https://skillicons.dev)
